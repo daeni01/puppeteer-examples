@@ -1,7 +1,7 @@
 /**
  * @name Amazon search
  *
- * @desc Looks for a "nyan cat pullover" on amazon.com, goes two page two clicks the third one.
+ * @desc Looks for a "nyan cat pullover" on amazon.com, goes to page two clicks the third one.
  */
 const puppeteer = require('puppeteer')
 const screenshot = 'amazon_nyan_cat_pullover.png'
